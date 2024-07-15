@@ -2,7 +2,7 @@
 
 import './banner.css'
 
-function Banner(){
+const Banner=()=>{
     //JSX
     return(
       <header className="banner">
@@ -12,4 +12,6 @@ function Banner(){
     )
 }
 
-export default Banner
+export  default Banner
+
+
